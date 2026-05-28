@@ -580,27 +580,65 @@ I also learned that:
 
 can cause frontend-backend communication failures. 
 
+
+```
+``` 
+
+## Challenges Faced During Development
+
+While building this project, I faced several practical setup and debugging issues.
+
+Some of the challenges included:
+
+* configuring Node.js and npm correctly
+* understanding PowerShell execution policy restrictions on Windows
+* learning how React project structure works
+* debugging WebSocket connection failures
+* understanding frontend-backend communication flow
+* fixing incorrect WebSocket path configurations
+* handling disconnected socket states
+* understanding localhost ports and networking behavior
+
+I also encountered situations where:
+
+* the frontend rendered correctly but backend connections failed
+* WebSocket handshake requests returned unexpected errors
+* browser console errors needed careful debugging
+
+Solving these issues helped me improve my debugging approach and taught me how important step-by-step testing is during development.
+
+Instead of only focusing on writing code quickly, I tried to understand why each issue was happening and how different parts of the system interacted with each other.
+
 ```
 ```
 
+## Possible Future Improvements
 
+If I continue improving this project further, I would like to add:
 
-## AI Usage Note
+* automatic WebSocket reconnection handling
+* persistent backend storage using a database
+* authentication and user login system
+* dark/light mode toggle
+* real CPU and memory monitoring data
+* charts and analytics visualizations
+* node filtering and search functionality
+* alert history persistence
+* sound notifications for critical alerts
+* deployment using cloud platforms
 
-I used ChatGPT as a learning and development assistant for this project.
+I would also like to improve:
 
-I used it to:
+* scalability
+* backend architecture
+* error handling
+* responsive mobile UI
 
-* understand WebSocket concepts
-* structure the React application
-* debug frontend/backend connection issues
-* improve UI organization
-* understand React state handling
-
-After that, I customized the dashboard data, modified the interface, tested the application locally, and made sure I understood the purpose and behavior of each section before finalizing the project.
+Currently, the project mainly focuses on understanding React frontend workflows, state management, WebSocket communication, and real-time dashboard behavior in a simple and explainable way.
 
 ```
 ```
+
 
 ## How to Run This Project
 
@@ -642,3 +680,22 @@ I intentionally kept the architecture simple and readable so that I could fully 
 
 ```
 ```
+
+
+## AI Usage Note
+
+I used ChatGPT as a learning and development assistant for this project.
+
+I used it to:
+
+* understand WebSocket concepts
+* structure the React application
+* debug frontend/backend connection issues
+* improve UI organization
+* understand React state handling
+
+After that, I customized the dashboard data, modified the interface, tested the application locally, and made sure I understood the purpose and behavior of each section before finalizing the project.
+
+```
+```
+
