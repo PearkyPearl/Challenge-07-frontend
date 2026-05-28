@@ -13,7 +13,7 @@ I built a personalised dashboard inspired by VNIT and SHELL-style monitoring.The
 - Node List 
 - Live Alerts
 
-The Node List view shows five hardcoded nodes such as VNIT-Hostel-Gateway, Shell-Core-Node, EEE-Lab-Monitor, CRC-Database-Server, and AXIS-EvenT-Node. Each node displays its operating system, status, owner, CPU usage, last checked time, and recent logs. 
+The Node List view shows five hardcoded nodes such as VNIT-Hostel-Gateway, SHELL-Core-Node, EEE-Lab-Monitor, CRC-Database-Server, and AXIS-EvenT-Node. Each node displays its operating system, status, owner, CPU usage, last checked time, and recent logs. 
 
 The Live Alerts view connects to a mock WebSocket backend. The backend sends fake alerts every few seconds. The frontend receives these alerts and displays them in a table, with the newest alert appearing at the top.
 
