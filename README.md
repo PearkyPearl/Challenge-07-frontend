@@ -583,6 +583,19 @@ can cause frontend-backend communication failures.
 
 ```
 ``` 
+### WebSocket Debugging
+
+While testing the Live Alerts section, I initially faced a WebSocket handshake error due to incorrect backend communication and routing configuration.
+
+I debugged the issue using browser developer tools and understood how frontend-backend communication works in real-time applications.
+
+This helped me learn:
+- WebSocket connection flow
+- localhost networking
+- backend route handling
+- browser developer tools debugging
+
+![WebSocket Debugging Screenshot](IMG20260528004125.jpg)
 
 ## Challenges Faced During Development
 
