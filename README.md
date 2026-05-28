@@ -401,7 +401,7 @@ This screenshot shows the Node List dashboard with one node card expanded to dis
 
 ### Live Alerts View Receiving Alerts
 
-![Live Alerts](./screenshots/live-alerts.png)
+![Live Alerts View](IMG20260528004912.jpg)
 
 This screenshot shows the Live Alerts dashboard connected to the mock WebSocket backend and receiving live monitoring alerts in real time.
 
