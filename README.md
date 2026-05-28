@@ -394,8 +394,7 @@ inside the `README.md` file.
 
 ### Node List View with Expanded Logs
 
-![Node List Expanded](./screenshots/node-list-expanded.png)
-
+![Node List](IMG20260527224141.jpg)
 This screenshot shows the Node List dashboard with one node card expanded to display recent monitoring logs.
 
 ---
