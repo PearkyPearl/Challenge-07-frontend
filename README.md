@@ -23,7 +23,7 @@ I used a mock backend because the challenge allowed mocked data, and this helped
 
 - React 
 - Vite 
-- Javascript 
+- JavaScript 
 - CSS 
 - Node.js 
 - WebSocket using 'ws' 
@@ -551,7 +551,7 @@ refers to the current machine itself.
 
 For example: 
 
-https://localhost:5173
+`http://localhost:5173`
 
 means the frontend React application is running locally on port 5173. 
 
