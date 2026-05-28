@@ -102,7 +102,7 @@ challenge-07-frontend-dashboard/
 └── README.md
 ```
 
-```
+
 ## Step-by-Step Solution
 
 ### Step 1: Created the React frontend
@@ -113,7 +113,7 @@ Command used:
 
 ```bash
 npm create vite@latest frontend
-````
+```
 
 I selected:
 
